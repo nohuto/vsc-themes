@@ -1,7 +1,7 @@
 {
-  "name": "gruvbox-minimal",
-  "displayName": "Gruvbox Minimal",
-  "description": "A minimal Gruvbox dark theme with near-black surfaces and warm gold accents.",
+  "name": "gruvbox-dark",
+  "displayName": "Gruvbox Dark",
+  "description": "Gruvbox dark theme",
   "version": "0.1.0",
   "publisher": "nohuto",
   "engines": {
@@ -12,7 +12,7 @@
       {
         "label": "Gruvbox Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/gruvbox-dark-color-theme.json"
+        "path": "./themes/gruvbox-dark.json"
       }
     ]
   }
